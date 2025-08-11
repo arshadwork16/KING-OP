@@ -1,1 +1,1 @@
-<h1>Hi I am Shaikh Arshad</h1>
+<h1 align="center">Hi I am Shaikh Arshad</h1>
